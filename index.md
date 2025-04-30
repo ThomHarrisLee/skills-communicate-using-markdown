@@ -1,7 +1,7 @@
 # Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # Code Example
-var myVar = "Hello, world!";
+###### var myVar = "Hello, world!";
 
 
 ### Header3
